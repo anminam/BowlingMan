@@ -11,4 +11,5 @@
 
 
 ### 기술
-Firebase 서버이용
+servcer - Firebase / FirebaseDatabase / FirebaseAuth
+client - Vue / Nuxt.js
